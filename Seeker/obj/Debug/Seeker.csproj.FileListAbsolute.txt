@@ -12,3 +12,17 @@ C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.exe
 C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.pdb
 C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.csproj.AssemblyReference.cache
 C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.SetPolygonValuesForm.resources
+C:\GitHub\C-sharp\bin\Debug\Seeker.exe.config
+C:\GitHub\C-sharp\bin\Debug\Seeker.exe
+C:\GitHub\C-sharp\bin\Debug\Seeker.pdb
+C:\GitHub\C-sharp\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\GitHub\C-sharp\obj\Debug\Seeker.csprojAssemblyReference.cache
+C:\GitHub\C-sharp\obj\Debug\Seeker.GraphicsForm.resources
+C:\GitHub\C-sharp\obj\Debug\Seeker.MainForm.resources
+C:\GitHub\C-sharp\obj\Debug\Seeker.SetPolygonValuesForm.resources
+C:\GitHub\C-sharp\obj\Debug\Seeker.Properties.Resources.resources
+C:\GitHub\C-sharp\obj\Debug\Seeker.csproj.GenerateResource.cache
+C:\GitHub\C-sharp\obj\Debug\Seeker.csproj.CoreCompileInputs.cache
+C:\GitHub\C-sharp\obj\Debug\Seeker.csproj.CopyComplete
+C:\GitHub\C-sharp\obj\Debug\Seeker.exe
+C:\GitHub\C-sharp\obj\Debug\Seeker.pdb
