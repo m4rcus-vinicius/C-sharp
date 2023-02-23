@@ -1,0 +1,14 @@
+C:\Users\desenv5\source\repos\Seeker\bin\Debug\Seeker.exe.config
+C:\Users\desenv5\source\repos\Seeker\bin\Debug\Seeker.exe
+C:\Users\desenv5\source\repos\Seeker\bin\Debug\Seeker.pdb
+C:\Users\desenv5\source\repos\Seeker\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.GraphicsForm.resources
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.MainForm.resources
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.Properties.Resources.resources
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.csproj.GenerateResource.cache
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.csproj.CoreCompileInputs.cache
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.csproj.CopyComplete
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.exe
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.pdb
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.csproj.AssemblyReference.cache
+C:\Users\desenv5\source\repos\Seeker\obj\Debug\Seeker.SetPolygonValuesForm.resources
